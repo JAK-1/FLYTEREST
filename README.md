@@ -8,3 +8,5 @@ pin(6,7): right
 pin(8,9): front
 pin(10,11): down
 
+This has a range of about 100cm, 
+if you want something greater than that you need to use a strong IR sensor, or a more powerful LIDAR senor, you can even map with that. Going to build that very soon.
